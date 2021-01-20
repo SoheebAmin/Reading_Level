@@ -16,4 +16,4 @@ Output: Grade 10
 
 ## Sample Run
 
-![Sample output](sample_run.png?raw=true "Sample Output")
+![Sample output](test_run.png?raw=true "Sample Output")
