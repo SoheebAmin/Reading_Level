@@ -13,3 +13,7 @@ Input: It was almost December, and Jonas was beginning to be frightened. No. Wro
 Output: Grade 10
 
 ```
+
+## Sample Run
+
+![Sample output](sample_run.png?raw=true "Sample Output")
