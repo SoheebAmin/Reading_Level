@@ -2,8 +2,6 @@
 
 Given a sample input from a test, "reading_level.c" uses the [Coleman-Liau index](https://readabilityformulas.com/coleman-liau-readability-formula.php "The Coleman-Liau index") to output the reading level according to the index.
 
-The program was originally written with features from CS50's library (cs50.h), which helps with getting user input, as well as being training wells to avoid dealing with char pointers. I rewrote some parts of the code so that it can work without this library.
-
 ## Usage
 
 The input must be text of any length up to a 10,000 character limit. It should be without newlines, or else the sample will terminate at the newline.
